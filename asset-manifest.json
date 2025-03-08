@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.478135d6.css",
+    "main.js": "/my-portfolio/static/js/main.410078ff.js",
+    "static/js/488.535652aa.chunk.js": "/my-portfolio/static/js/488.535652aa.chunk.js",
+    "static/media/musicpl.png": "/my-portfolio/static/media/musicpl.a74718fcaf99a1564722.png",
+    "static/media/accident.png": "/my-portfolio/static/media/accident.5f242cac906cee311bd1.png",
+    "static/media/zomato.png": "/my-portfolio/static/media/zomato.3baed0b95097d762da98.png",
+    "static/media/oyawiorgs.png": "/my-portfolio/static/media/oyawiorgs.9270e3a871f53edb7a07.png",
+    "static/media/netflix.png": "/my-portfolio/static/media/netflix.f69f1292c25bf6aaaef7.png",
+    "static/media/shelter.png": "/my-portfolio/static/media/shelter.47d817ce7f55b4339129.png",
+    "static/media/ipaddress.png": "/my-portfolio/static/media/ipaddress.98660f6feb74cf37b697.png",
+    "static/media/moviedb.png": "/my-portfolio/static/media/moviedb.778892a94644bda94e65.png",
+    "static/media/resumee.pdf": "/my-portfolio/static/media/resumee.d2e3579d086a313662b2.pdf",
+    "static/media/musicx.png": "/my-portfolio/static/media/musicx.0e56333be8d4c2488336.png",
+    "static/media/strapi.png": "/my-portfolio/static/media/strapi.39ea66e173f8725f92d8.png",
+    "static/media/estaltech.png": "/my-portfolio/static/media/estaltech.f8f416f647a223f7f78d.png",
+    "static/media/todoapp.jpeg": "/my-portfolio/static/media/todoapp.7809a5c8184482d5e482.jpeg",
+    "static/media/countries.png": "/my-portfolio/static/media/countries.a8cee9370848ed59e5a2.png",
+    "static/media/rpc.png": "/my-portfolio/static/media/rpc.597297f8abf97252fc18.png",
+    "static/media/meety.png": "/my-portfolio/static/media/meety.3e65aa0e85e6a4ffff1e.png",
+    "static/media/recipesapp.jpg": "/my-portfolio/static/media/recipesapp.615479c3d2c3882a4a4c.jpg",
+    "static/media/shrushti.png": "/my-portfolio/static/media/shrushti.13eb269cdff030b37176.png",
+    "static/media/pricelessit.png": "/my-portfolio/static/media/pricelessit.f66143906e403bc9f7f7.png",
+    "static/media/invoice.png": "/my-portfolio/static/media/invoice.83d4d059f7ca9a25d0e2.png",
+    "static/media/chatcord.png": "/my-portfolio/static/media/chatcord.ca977ada595de4a177a8.png",
+    "static/media/bmi.jpg": "/my-portfolio/static/media/bmi.4bb82dc6b0872579b249.jpg",
+    "static/media/Moon.svg": "/my-portfolio/static/media/Moon.39fdda73c60c2e3ce776.svg",
+    "index.html": "/my-portfolio/index.html",
+    "main.478135d6.css.map": "/my-portfolio/static/css/main.478135d6.css.map",
+    "main.410078ff.js.map": "/my-portfolio/static/js/main.410078ff.js.map",
+    "488.535652aa.chunk.js.map": "/my-portfolio/static/js/488.535652aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478135d6.css",
+    "static/js/main.410078ff.js"
+  ]
+}
